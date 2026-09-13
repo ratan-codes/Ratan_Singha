@@ -125,14 +125,14 @@ A collection of Java projects built during a Java internship, including a Number
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ratan-codes/ratan-codes/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ratan-codes/ratan-codes/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ratan-codes/ratan-codes/output/github-contribution-grid-snake.svg" width="90%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ratan-codes/Ratan_Singha/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ratan-codes/Ratan_Singha/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ratan-codes/Ratan_Singha/output/github-contribution-grid-snake.svg" width="90%" />
 </picture>
 
 </div>
 
-> ⚠️ **One-time setup needed:** the snake animation only appears after you add the included `snake.yml` workflow to your `ratan-codes/ratan-codes` repo (see below). Until then, this line will just show a broken image.
+> ⚠️ **One-time setup needed:** the snake animation only appears after you add the included `snake.yml` workflow to your `ratan-codes/Ratan_Singha` repo (see below). Until then, this line will just show a broken image.
 
 ---
 
